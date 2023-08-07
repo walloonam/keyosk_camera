@@ -16,10 +16,8 @@
 ## 시작하기
 
 1. 저장소를 복제합니다:
-
    ```bash
    git clone https://github.com/your-username/opencv-face-recognition.git
-
 2. 웹 브라우저에서 index.html 파일을 엽니다.
 3. 카메라 액세스를 허용하면 라이브 비디오 스트림이 시작됩니다.
 4. 애플리케이션은 비디오 스트림에서 얼굴을 감지하고 인식합니다.
